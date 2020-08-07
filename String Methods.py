@@ -1,0 +1,7 @@
+# RUN Shift+F10
+first = 'John'
+last = 'Smith'
+message = first + ' ['+ last + '] is a coder'
+msg = f'{first} [{last}] is a coder'
+print(msg)
+print('Length of ccharacter is' , len(msg)) # len calculate character
