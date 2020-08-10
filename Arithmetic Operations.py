@@ -1,4 +1,4 @@
-# Arithmetic Operations
+# Some Arithmetic Operations
 print(10 / 3)    # non integer
 print(10 // 3)  # integer
 print(10 % 3)  # modoles
